@@ -1,3 +1,5 @@
+(imported this from https://github.com/akshaychandra21/Selfie_Filters_OpenCV and removed the gif that was crashing my computer while I was just trying read)
+
 ### [UPDATE]: I will not be responding to issues or emails related to this repo anymore as I am currently occupied with other research commitments. Also, the libraries used are pretty old and outdated. Thank you.
 
 # Selfie Filters Using Facial Landmarks [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/akshaychandra21/Selfie_Filters_OpenCV/blob/master/LICENSE.txt)
